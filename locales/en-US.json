@@ -1,0 +1,6 @@
+{
+  "plugin": {
+    "name": "Kimi Context Usage",
+    "description": "Click the context button to see system prompt, tool definitions and conversation usage"
+  }
+}
